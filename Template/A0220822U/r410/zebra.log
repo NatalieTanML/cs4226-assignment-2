@@ -1,0 +1,48 @@
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:47:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:47:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:47:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:47:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:47:26 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 15:47:26 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 15:47:26 ZEBRA: [RS5M6-AEER6][EC 100663317] vty_read_config: failed to open configuration file /etc/frr/frr.conf: No such file or directory, checking backup
+2023/11/08 15:47:26 ZEBRA: [VDWX6-W8CNF][EC 100663304] vty_read_config: can't open configuration file [/etc/frr/frr.conf]
+2023/11/08 15:47:26 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 15:47:26 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 15:47:26 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 15:50:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:50:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:50:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:50:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 15:50:00 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 15:50:00 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 15:50:00 ZEBRA: [RS5M6-AEER6][EC 100663317] vty_read_config: failed to open configuration file /etc/frr/frr.conf: No such file or directory, checking backup
+2023/11/08 15:50:00 ZEBRA: [VDWX6-W8CNF][EC 100663304] vty_read_config: can't open configuration file [/etc/frr/frr.conf]
+2023/11/08 15:50:00 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 15:50:00 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 15:50:00 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
