@@ -46,3 +46,778 @@
 2023/11/08 15:49:59 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
 2023/11/08 15:49:59 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
 2023/11/08 15:49:59 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:34:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:34:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:34:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:34:26 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:34:26 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 16:34:26 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router rip
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   network 100.100.1.2/32
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   network 192.168.1.1/31
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   network 192.168.1.2/31
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8: router bgp 100
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   bgp router-id 100.100.1.2
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   no bgp ebgp-requires-policy
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:   neighbor 100.100.1.1 update-source 100.100.1.2
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 15:   address-family ipv4 unicast
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 16:     redistribute connected
+2023/11/08 16:34:26 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 17:   exit-address-family
+2023/11/08 16:34:26 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 16:34:26 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 16:34:26 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:35:35 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:35:35 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:35:35 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:35:35 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:35:35 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 16:35:35 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router rip
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   network 100.100.1.2/32
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   network 192.168.1.1/31
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   network 192.168.1.2/31
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8: router bgp 100
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   bgp router-id 100.100.1.2
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   no bgp ebgp-requires-policy
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:   neighbor 100.100.1.1 update-source 100.100.1.2
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 15:   address-family ipv4 unicast
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 16:     redistribute connected
+2023/11/08 16:35:35 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 17:   exit-address-family
+2023/11/08 16:35:35 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 16:35:35 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 16:35:35 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:36:09 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:36:09 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:36:09 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:36:09 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:36:09 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 16:36:09 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router rip
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   network 100.100.1.2/32
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   network 192.168.1.1/31
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   network 192.168.1.2/31
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8: router bgp 100
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   bgp router-id 100.100.1.2
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   no bgp ebgp-requires-policy
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:   neighbor 100.100.1.1 update-source 100.100.1.2
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 15:   address-family ipv4 unicast
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 16:     redistribute connected
+2023/11/08 16:36:09 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 17:   exit-address-family
+2023/11/08 16:36:09 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 16:36:09 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 16:36:09 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:20 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:20 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:20 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:20 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:20 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 16:39:20 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   address-family ipv4 unicast
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:     redistribute connected
+2023/11/08 16:39:20 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   exit-address-family
+2023/11/08 16:39:20 ZEBRA: [V98V0-MTWPF] client 28 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 16:39:20 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 16:39:20 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:39:29 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:29 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:29 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:29 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:39:29 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 16:39:29 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   address-family ipv4 unicast
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:     redistribute connected
+2023/11/08 16:39:29 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   exit-address-family
+2023/11/08 16:39:29 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 16:39:29 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 16:39:29 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:42:36 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:42:36 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:42:36 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:42:36 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:42:36 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 16:42:36 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   address-family ipv4 unicast
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:     redistribute connected
+2023/11/08 16:42:36 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   exit-address-family
+2023/11/08 16:42:36 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 16:42:36 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 16:42:36 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 16:56:48 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:56:48 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:56:48 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:56:48 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 16:56:48 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 16:56:48 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   address-family ipv4 unicast
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:     redistribute connected
+2023/11/08 16:56:48 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   exit-address-family
+2023/11/08 16:56:48 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 16:56:48 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 16:56:48 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:01:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:01:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:01:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:01:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:01:49 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 17:01:49 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   address-family ipv4 unicast
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:     network 10.2.1.254/24
+2023/11/08 17:01:49 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   exit-address-family
+2023/11/08 17:01:49 ZEBRA: [V98V0-MTWPF] client 28 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 17:01:50 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 17:01:50 ZEBRA: [V98V0-MTWPF] client 38 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:13:56 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:13:56 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:13:56 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:13:56 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:13:56 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 17:13:56 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   address-family ipv4 unicast
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:     network 10.2.1.254/24
+2023/11/08 17:13:56 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   exit-address-family
+2023/11/08 17:13:56 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 17:13:56 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 17:13:56 ZEBRA: [V98V0-MTWPF] client 38 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 17:15:47 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:15:47 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:15:47 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:15:47 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 17:15:47 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 17:15:47 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 5:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:   address-family ipv4 unicast
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:     network 10.2.1.254/24
+2023/11/08 17:15:47 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:   exit-address-family
+2023/11/08 17:15:47 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 17:15:47 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 17:15:47 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:11:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:11:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:11:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:11:49 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:11:50 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 19:11:50 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 100.100.1.1 remote-as 100
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 100.100.1.1 update-source 172.17.1.1
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 100.100.1.1 next-hop-self
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.254/24
+2023/11/08 19:11:50 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:   exit-address-family
+2023/11/08 19:11:50 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 19:11:50 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 19:11:50 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:23:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:23:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:23:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:23:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:23:30 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 19:23:30 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 19:23:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 19:23:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 19:23:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 19:23:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 19:23:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   address-family ipv4 unicast
+2023/11/08 19:23:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:     network 10.2.1.254/24
+2023/11/08 19:23:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   exit-address-family
+2023/11/08 19:23:30 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 19:23:30 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 19:23:30 ZEBRA: [V98V0-MTWPF] client 37 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:25:43 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:25:43 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:25:43 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:25:43 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:25:43 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 19:25:43 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 19:25:43 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 19:25:43 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 19:25:43 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 19:25:43 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 19:25:43 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   address-family ipv4 unicast
+2023/11/08 19:25:43 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:     network 10.2.1.254/24
+2023/11/08 19:25:43 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   exit-address-family
+2023/11/08 19:25:43 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 19:25:43 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 19:25:43 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:31:19 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:31:19 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:31:19 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:31:19 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:31:19 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 19:31:19 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 19:31:19 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 19:31:19 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 19:31:19 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 19:31:19 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 19:31:19 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   address-family ipv4 unicast
+2023/11/08 19:31:19 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:     network 10.2.1.254/24
+2023/11/08 19:31:19 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   exit-address-family
+2023/11/08 19:31:19 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 19:31:19 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 19:31:19 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:49:11 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:49:11 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:49:11 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:49:11 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:49:11 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 19:49:11 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 19:49:11 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 19:49:11 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 19:49:11 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 19:49:11 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 19:49:11 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   address-family ipv4 unicast
+2023/11/08 19:49:11 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:     network 10.2.1.254/24
+2023/11/08 19:49:11 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   exit-address-family
+2023/11/08 19:49:11 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 19:49:11 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 19:49:11 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 19:56:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:56:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:56:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:56:00 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 19:56:00 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 19:56:00 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 19:56:00 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 19:56:00 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 19:56:00 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 19:56:00 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 19:56:00 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   address-family ipv4 unicast
+2023/11/08 19:56:00 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:     network 10.2.1.254/24
+2023/11/08 19:56:00 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   exit-address-family
+2023/11/08 19:56:00 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 19:56:00 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 19:56:00 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:11:31 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:11:31 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:11:31 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:11:31 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:11:31 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 20:11:31 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 20:11:31 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 20:11:31 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 20:11:31 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 20:11:31 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 6:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 20:11:31 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   address-family ipv4 unicast
+2023/11/08 20:11:31 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 9:     network 10.2.1.254/24
+2023/11/08 20:11:31 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   exit-address-family
+2023/11/08 20:11:31 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 20:11:32 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 20:11:32 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:02 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:02 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:02 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:02 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:02 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 20:28:02 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 20:28:02 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 20:28:02 ZEBRA: [V98V0-MTWPF] client 28 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 20:28:02 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 20:28:02 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:28:37 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:37 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:37 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:37 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:28:37 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 20:28:37 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 20:28:37 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 20:28:38 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 20:28:38 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 20:28:38 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:38:17 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:38:17 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:38:17 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:38:17 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:38:17 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 20:38:17 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 20:38:17 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 20:38:17 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 20:38:18 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 20:38:18 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 20:59:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:59:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:59:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:59:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 20:59:15 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 20:59:15 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 20:59:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 20:59:15 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 20:59:15 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 20:59:15 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:17:38 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:17:38 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:17:38 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:17:38 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:17:38 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 21:17:39 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 21:17:39 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 21:17:39 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 21:17:39 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 21:17:39 ZEBRA: [V98V0-MTWPF] client 38 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:19:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:19:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:19:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:19:30 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:19:30 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 21:19:30 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 21:19:30 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 21:19:30 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 21:19:30 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 21:19:30 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:21:25 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:21:25 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:21:25 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:21:25 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:21:25 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 21:21:25 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 21:21:25 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 21:21:25 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 21:21:25 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 21:21:25 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-yang-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [HG1WF-2N96F] YANG model "ietf-inet-types@*" "*@*"not embedded, trying external file
+2023/11/08 21:27:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:27:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:27:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:27:15 ZEBRA: [VMBPM-Q87BB] Setting netlink socket receive buffer size: 212992 -> 8388608
+2023/11/08 21:27:15 ZEBRA: [NNACN-54BDA][EC 4043309110] Disabling MPLS support (no kernel support)
+2023/11/08 21:27:15 ZEBRA: [T83RR-8SM5G] zebra 8.1 starting: vty@2601
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 2: router bgp 200
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 3:   bgp router-id 100.100.2.1
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 4:   no bgp ebgp-requires-policy
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 7:   neighbor 172.17.1.0 remote-as 100
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 8:   neighbor 172.17.1.0 next-hop-self
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 10:   address-family ipv4 unicast
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 11:     network 10.2.1.0/24
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 12:     network 172.17.1.0/31
+2023/11/08 21:27:15 ZEBRA: [SHWNK-NWT5S][EC 100663304] No such command on config line 13:   exit-address-family
+2023/11/08 21:27:15 ZEBRA: [V98V0-MTWPF] client 16 says hello and bids fair to announce only rip routes vrf=0
+2023/11/08 21:27:15 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only bgp routes vrf=0
+2023/11/08 21:27:15 ZEBRA: [V98V0-MTWPF] client 36 says hello and bids fair to announce only vnc routes vrf=0
